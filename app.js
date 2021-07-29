@@ -29,7 +29,7 @@ Test this function by hand in the console to get it working, and when you think 
 // Write your code here
 function multiply(a, b) { //eslint-disable-line
 let multi = a *b ;
-return [multi,  `The product of ${a} and ${b} is ${multi}.`];
+return [multi, `The product of ${a} and ${b} is ${multi}.`];
 
 }
 testMultiply(5, 9);
